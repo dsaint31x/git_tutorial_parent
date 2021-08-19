@@ -1,0 +1,3 @@
+[submodule "child0"]
+	path = child0
+	url = git@github.com:dsaint31x/git_tutorial_child0.git
